@@ -38,20 +38,20 @@
 ┌─────────────────────────────────────────────────────────────┐
 │                      Mayank Chaudhary                       │
 ├─────────────────────────────────────────────────────────────┤
-│  Education   : B.Tech CSE — Shivalik College, Dehradun     │
+│  Education   : B.Tech CSE — Shivalik College, Dehradun      │
 │  Status      : Computer Science Undergraduate               │
 │                                                             │
-│  Interests   :                                               │
-│    ◆ Software Development                                   │
-│    ◆ Full Stack Web Development                             │
-│    ◆ Backend Development                                    │
-│    ◆ Artificial Intelligence & Machine Learning             │
-│    ◆ Problem Solving                                        │
+│  Interests   :                                              │
+│    ◆ Software Development                                  │
+│    ◆ Full Stack Web Development                            │
+│    ◆ Backend Development                                   │
+│    ◆ Artificial Intelligence & Machine Learning            │
+│    ◆ Problem Solving                                       │
 │                                                             │
 │  Languages   : C/C++ · JavaScript · Python                  │
 │  Frontend    : HTML · CSS · React.js                        │
-│  Backend     : Node.js                                     │
-│  Database    : MySQL                                       │
+│  Backend     : Node.js                                      │
+│  Database    : MySQL                                        │
 │                                                             │
 │  Currently   : Building projects & improving DSA            │
 │  Learning    : Backend Development · AI/ML                  │
