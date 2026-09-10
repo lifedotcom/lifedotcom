@@ -18,13 +18,17 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=lifedotcom\&style=for-the-badge\&color=2563EB\&label=PROFILE+VIEWS)
-
-![GitHub Followers](https://img.shields.io/github/followers/lifedotcom?style=for-the-badge\&color=2563EB\&labelColor=0F172A\&label=FOLLOWERS)
-
-![B.Tech CSE](https://img.shields.io/badge/B.Tech%20CSE-2024--Present-2563EB?style=for-the-badge\&labelColor=0F172A)
-
-![Open to Collaboration](https://img.shields.io/badge/Open%20To-Collaboration-22C55E?style=for-the-badge\&labelColor=0F172A)
+<a href="#">
+<img src="https://komarev.com/ghpvc/?username=lifedotcom&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS" />
+</a>
+&nbsp;
+<a href="https://github.com/lifedotcom">
+<img src="https://img.shields.io/github/followers/lifedotcom?style=for-the-badge&color=2563EB&labelColor=0F172A&label=FOLLOWERS" />
+</a>
+&nbsp;
+<img src="https://img.shields.io/badge/B.Tech%20CSE-2024--Present-2563EB?style=for-the-badge&labelColor=0F172A" />
+&nbsp;
+<img src="https://img.shields.io/badge/Open%20To-Collaboration-22C55E?style=for-the-badge&labelColor=0F172A" />
 
 </div>
 
@@ -223,58 +227,6 @@ A travel-based application providing travel planning and chatbot functionality u
 
 </tr>
 
-<tr>
-
-<td width="50%" valign="top">
-
-### 📦 Inventory Management
-
-**Inventory Management System**
-
-A basic inventory management application for storing, modifying, and removing inventory data.
-
-**Highlights:**
-
-* ➕ Add inventory data
-* ✏️ Modify existing records
-* 🗑️ Remove records
-* 🗄️ MySQL database integration
-* 🌐 Web-based interface
-
-**Stack:**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square\&logo=html5\&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
-
-<br>
-
-[🔗 View Project](https://github.com/lifedotcom/inventory_management_system)
-
-</td>
-
-<td width="50%" valign="top">
-
-### 💡 What I'm Building
-
-**Learning • Experimenting • Creating**
-
-Currently focused on improving my software development skills through practical projects.
-
-**Focus Areas:**
-
-* 💻 Data Structures & Algorithms
-* 🌐 Full Stack Development
-* ⚙️ Backend Development
-* 🤖 AI & Machine Learning
-* 🧩 Problem Solving
-* 🚀 Hackathons & Projects
-
-</td>
-
-</tr>
 </table>
 
 ---
