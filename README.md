@@ -356,16 +356,6 @@ CERTIFICATIONS ─────────────────────�
 
 ---
 
-## 📈 Contribution Activity
-
-<div align="center">
-
-[![Mayank's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lifedotcom\&theme=tokyo-night\&bg_color=0D1117\&color=60A5FA\&line=2563EB\&point=60A5FA\&area=true\&hide_border=true)](https://github.com/lifedotcom)
-
-</div>
-
----
-
 ## 💬 Dev Quote
 
 <div align="center">
@@ -380,7 +370,7 @@ CERTIFICATIONS ─────────────────────�
 
 <div align="center">
 
-<a href="mailto:mayankschaudhary4@gmail.com">
+<a href="mailto:mayankschaudhary05@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -398,7 +388,7 @@ CERTIFICATIONS ─────────────────────�
 
 <br><br>
 
-**📧 [mayankschaudhary4@gmail.com](mailto:mayankschaudhary4@gmail.com)**
+**📧 [mayankschaudhary4@gmail.com](mailto:mayankschaudhary05@gmail.com)**
 
 **📍 Dehradun, Uttarakhand**
 
