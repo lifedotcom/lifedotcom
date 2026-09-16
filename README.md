@@ -1,5 +1,5 @@
 <!-- ============================================================
-     Mayank Chaudhary — GitHub Profile README
+     Mayank Chaudhary - GitHub Profile README
      ============================================================ -->
 
 <div align="center">
@@ -42,7 +42,7 @@
 ┌─────────────────────────────────────────────────────────────┐
 │                      Mayank Chaudhary                       │
 ├─────────────────────────────────────────────────────────────┤
-│  Education   : B.Tech CSE — Shivalik College, Dehradun      │
+│  Education   : B.Tech CSE - Shivalik College, Dehradun      │
 │  Status      : Computer Science Undergraduate               │
 │                                                             │
 │  Interests   :                                              │
@@ -94,7 +94,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini%20API-4285F4?style=for-the-badge\&logo=google\&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Basics-8B5CF6?style=for-the-badge)
+![Machine Learning Basics](https://img.shields.io/badge/Machine%20Learning-Basics-8B5CF6?style=for-the-badge)
 
 ### 🛠️ Tools & Platforms
 
@@ -240,13 +240,13 @@ A travel-based application providing travel planning and chatbot functionality u
    → Top Finalist
 
 🚀 Hack on Hills 7.0
-   → Builder — Aptos Web3 Bootcamp
+   → Builder - Aptos Web3 Bootcamp
 
-🥇 12-Hour Hackathon — Shivalik College
+🥇 12-Hour Hackathon - Shivalik College
    → 4th Place
 
 🤖 Google Developer Groups Workshop
-   → AI Agents Workshop — Delhi
+   → AI Agents Workshop - Delhi
 
 
 CERTIFICATIONS ──────────────────────────────────────────────────
@@ -262,7 +262,7 @@ CERTIFICATIONS ─────────────────────�
 
 🍃 MongoDB
    → NoSQL Ninjas: MongoDB Edition
-   → In collaboration with Microsoft Student Chapter — MSIT
+   → In collaboration with Microsoft Student Chapter - MSIT
 ```
 
 ---
@@ -271,14 +271,14 @@ CERTIFICATIONS ─────────────────────�
 
 ### Shivalik College, Dehradun
 
-**B.Tech — Computer Science & Engineering**
+**B.Tech - Computer Science & Engineering**
 2024 – Present
 
 **CGPA:** 7.28 *(1st Year)*
 
 ### DAV Public School, Dehradun
 
-**Class XII — Science**
+**Class XII - Science**
 2022 – 2023
 **Percentage:** 87.8%
 
@@ -352,6 +352,6 @@ CERTIFICATIONS ─────────────────────�
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:0F172A,50:1E3A5F,100:2563EB&section=footer"/>
 
-<sub>⭐ <i>Learning, building, and improving one project at a time.</i> — Mayank Chaudhary</sub>
+<sub>⭐ <i>Learning, building, and improving one project at a time.</i> - Mayank Chaudhary</sub>
 
 </div>
